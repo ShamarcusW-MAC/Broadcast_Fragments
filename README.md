@@ -1,4 +1,4 @@
-# Week4_Weekend_BroadFragments
+# Broadcast_Fragments
 An application that uses 5 systems broadcasts
 This app also sends a broadcast of which it itself is registered to.
 This app displays 3 different fragments on it's main page
